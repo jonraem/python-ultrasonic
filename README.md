@@ -1,6 +1,6 @@
 # python-ultrasonic
 
-Ultrasonic distance meter written in Python for Raspberry Pi.
+Ultrasonic distance meter for Raspberry Pi. Written in Python.
 
 About
 -
