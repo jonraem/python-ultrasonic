@@ -12,4 +12,6 @@ You need to transfer the Python file to your Raspberry Pi. We used SCP. The norm
 
 For a description of the project in Finnish, see the PDF file found in this repository. In the img folder you can find some pictures of the components and an example what the prompt based UI looks like.
 
+This was a group project. Our team consisted of Joni Rämö, Teemu Tähtinen and Minna Isomäki.
+
 ![alt tag](img/P1030215.JPG)
